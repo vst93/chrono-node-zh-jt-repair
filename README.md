@@ -1,8 +1,9 @@
-# Chrono 中文强化版
+# Chrono 中文强化版（修复）
 
 [![Build Status](https://travis-ci.org/zhaoyibo/chrono.svg?branch=master)](https://travis-ci.org/zhaoyibo/chrono)
 
-Fork 自 Chrono Node，并加强中文语句的处理部分，支持简体和繁体。
+`Fork 自 Chrono Node，并加强中文语句的处理部分，支持简体和繁体。`
+再次 Fork 自 chrono-node-zh-jt ，基于自己的使用修复简体中文中部分错误。
 
 This is forked from Chrono Node, and enhances Chinese NLP support Simplified and Traditional.
 
@@ -29,11 +30,11 @@ Chrono supports most date and time formats, such as :
 
 Just run:
 
-    $ npm i --save chrono-node
+    $ npm i --save chrono-node-zh-jt-repair
 
 And start using chrono:
 
-    var chrono = require('chrono-node')
+    var chrono = require('chrono-node-zh-jt-repair')
     chrono.parseDate('An appointment on Sep 12-13') 
 
 #### Bower
