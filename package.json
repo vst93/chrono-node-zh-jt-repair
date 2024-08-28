@@ -1,13 +1,13 @@
 {
   "name": "chrono-node-zh-jt-repair",
   "description": "A natural language date parser in Javascript",
-  "homepage": "http://github.com/berryboy/chrono",
+  "homepage": "https://github.com/vst93/chrono-node-zh-jt-repair",
   "repository": {
     "type": "git",
-    "url": "https://github.com/berryboy/chrono.git"
+    "url": "https://github.com/vst93/chrono-node-zh-jt-repair.git"
   },
   "license": "MIT",
-  "version": "1.3.10",
+  "version": "1.3.11",
   "directories": {
     "source": "./src",
     "test": "./test"
